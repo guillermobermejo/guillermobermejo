@@ -31,7 +31,8 @@ I’m a mobile app developer currently building a productivity app designed to s
       </ul>
     </td>
     <td style="border: none; vertical-align: top; padding-left: 20px;">
-      <img src="https://i.imgur.com/y5lWxwn.gif" width="120"/>
+      <img src="https://i.imgur.com/l2MWKYX.gif" width="120"/>
+      <img src="https://i.imgur.com/VdLpAKO.gif" width="120"/>
     </td>
   </tr>
 </table>
