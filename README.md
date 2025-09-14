@@ -26,6 +26,7 @@ I’m a mobile app developer currently building a productivity app to support in
         <li>📱 <b>Mobile App Developer</b> (Android & iOS)</li>
         <li>🎮 <b>Game Programming Finalist</b> @ SBU Game Programming Competition 2024</li>
         <li>👨‍🏫 <b>Android / iOS Tech Fellow</b> @ CodePath</li>
+        <li>Interests: 🌐 Web Development, 📱 Mobile Development, 🤖 Artificial Intelligence</li>
       </ul>
     </td>
     <td style="border: none; vertical-align: top; padding-left: 20px;">
@@ -34,8 +35,6 @@ I’m a mobile app developer currently building a productivity app to support in
     </td>
   </tr>
 </table>
-
-Interests: 🌐 Web Development, 📱 Mobile Development, 🧠🤖 Artificial Intelligence, 🎨 Graphic Design
 
 ## 🌐 Social Media
 
