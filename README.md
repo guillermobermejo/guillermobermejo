@@ -7,40 +7,40 @@
   
   <!-- Commits -->
   <img src="https://img.shields.io/badge/Commits-574-brightgreen?style=flat" alt="Commits" />
+</p>
 
-  </br>
-  <img src="https://img.shields.io/badge/Top%20langs:-2b3137?style=flat" alt="Top langs"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white&style=flat" alt="Swift"/>
+</br>
+
+<p align="left">
+I’m a mobile app developer currently building a productivity app designed to support individuals with autism. Outside of development, I enjoy exploring 
+  graphic design and volunteering my technical skills for meaningful causes, with a focus on empowering communities and expanding access to technology.
 </p>
 
 </div>
-
----
 
 ## 🚀 About Me  
 <ul>
   <li>🎓 Computer Science graduate from <b>Stony Brook University</b></li>
   <li>📱 <b>Mobile App Developer</b> (Android & iOS)</li>
-  <li>🎮 <b>Game Programming Finalist (2024)</b></li>
+  <li>🎮 <b>Game Programming Finalist @ SBU Game Programming Competition 2024</b></li>
   <li>👨‍🏫 <b>Android / iOS Tech Fellow @ CodePath</b></li>
 </ul>
 
 Interests: 🌐 Web Development, 📱 Mobile Development, 🧠🤖 Artificial Intelligence, 🎨 Graphic Design
 
----
+## 🌐 Social Media
 
-## 🌟 Personal Mission
-<p>
-I’m a mobile app developer currently building a productivity app designed to support individuals with autism. Outside of development, I enjoy exploring 
-  graphic design and volunteering my technical skills for meaningful causes, with a focus on empowering communities and expanding access to technology.
+<p align="center">
+  <a href="https://www.linkedin.com/in/bermejoguillermo" target="_blank" rel="noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:guillermobermejo.dev@gmail.com" target="_blank" rel="noreferrer">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.guillermobermejo.com/" target="_blank" rel="noreferrer">
+    <img alt="My Website" src="https://img.shields.io/badge/My%20Website-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
-
----
 
 ## 🛠️ Languages & Tools  
 
@@ -85,20 +85,9 @@ I’m a mobile app developer currently building a productivity app designed to s
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>  
 
----
-
-## 🌐 Socials  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=google-chrome&logoColor=white)](https://yourwebsite.com)  
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:youremail@gmail.com)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
-
----
-
 ## 📊 GitHub Stats  
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillermobermejo&layout=compact&theme=dark" alt="Top Languages" />
 
 
 <!--
@@ -117,4 +106,13 @@ Here are some ideas to get you started:
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillermobermejo&layout=compact&theme=dark" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=guillermobermejo&show_icons=true&hide_title=true&count_private=true&theme=dark&hide=prs,issues,contribs&include_all_commits=true" alt="Commits" />
+
+  </br>
+  <img src="https://img.shields.io/badge/Top%20langs:-2b3137?style=flat" alt="Top langs"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white&style=flat" alt="Swift"/>
 -->
