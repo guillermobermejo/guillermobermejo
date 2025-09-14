@@ -12,7 +12,7 @@
 </br>
 
 <p align="left">
-I’m a mobile app developer currently building a productivity app designed to support individuals with autism. Outside of development, I enjoy exploring 
+I’m a mobile app developer currently building a productivity app designed to support individuals with autism. I enjoy exploring 
   graphic design and volunteering my technical skills for meaningful causes, with a focus on empowering communities and expanding access to technology.
 </p>
 
