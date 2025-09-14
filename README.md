@@ -19,12 +19,22 @@ I’m a mobile app developer currently building a productivity app designed to s
 </div>
 
 ## 🚀 About Me  
-<ul>
-  <li>🎓 Computer Science graduate from <b>Stony Brook University</b></li>
-  <li>📱 <b>Mobile App Developer</b> (Android & iOS)</li>
-  <li>🎮 <b>Game Programming Finalist @ SBU Game Programming Competition 2024</b></li>
-  <li>👨‍🏫 <b>Android / iOS Tech Fellow @ CodePath</b></li>
-</ul>
+
+<table>
+  <tr>
+    <td style="border: none; vertical-align: top;">
+      <ul>
+        <li>🎓 Computer Science graduate from <b>Stony Brook University</b></li>
+        <li>📱 <b>Mobile App Developer</b> (Android & iOS)</li>
+        <li>🎮 <b>Game Programming Finalist</b> @ SBU Game Programming Competition 2024</li>
+        <li>👨‍🏫 <b>Android / iOS Tech Fellow</b> @ CodePath</li>
+      </ul>
+    </td>
+    <td style="border: none; vertical-align: top; padding-left: 20px;">
+      <img src="https://i.imgur.com/y5lWxwn.gif" width="120"/>
+    </td>
+  </tr>
+</table>
 
 Interests: 🌐 Web Development, 📱 Mobile Development, 🧠🤖 Artificial Intelligence, 🎨 Graphic Design
 
