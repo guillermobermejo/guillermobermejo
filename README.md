@@ -24,7 +24,6 @@ I’m a mobile app developer currently building a productivity app to support in
       <ul>
         <li>🎓 Computer Science graduate from <b>Stony Brook University</b></li>
         <li>📱 <b>Mobile App Developer</b> (Android & iOS)</li>
-        <li>🎮 <b>Game Programming Finalist</b> @ SBU Game Programming Competition 2024</li>
         <li>👨‍🏫 <b>Android / iOS Tech Fellow</b> @ CodePath</li>
         <li>Interests: 🌐 Web Development, 📱 Mobile Development, 🤖 Artificial Intelligence</li>
       </ul>
@@ -86,7 +85,7 @@ I’m a mobile app developer currently building a productivity app to support in
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>  
 
-## 🎮 Projects & Creative Work
+## 🎖 Awarded Work & Creative Design
 
 | [<img src="https://i.imgur.com/anAxhT3.gif" width="100%"/>](https://github.com/yourusername/project1) | [<img src="https://i.imgur.com/anAxhT3.gif" width="100%"/>](https://github.com/yourusername/project2) |
 |---|---|
