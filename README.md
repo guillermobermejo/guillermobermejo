@@ -87,7 +87,7 @@ I’m a mobile app developer currently building a productivity app to support in
 
 ## 🎖 Awarded Work & Creative Design
 
-| [<img src="https://i.imgur.com/anAxhT3.gif" width="100%"/>](https://github.com/yourusername/project1) | [<img src="https://i.imgur.com/anAxhT3.gif" width="100%"/>](https://github.com/yourusername/project2) |
+| [<img src="https://i.imgur.com/anAxhT3.gif" width="100%"/>](https://www.guillermobermejo.com/pages/project-page/projects/development/enyos-escape.html) | [<img src="https://i.imgur.com/anAxhT3.gif" width="100%"/>](https://github.com/yourusername/project2) |
 |---|---|
 | **Game Project:** A retro-style pixel game I developed for a competition. | **Design Project:** A motion graphics showcase built for a freelance client. |
 
