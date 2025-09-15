@@ -20,18 +20,11 @@ I’m a mobile app developer currently building a productivity app to support in
 <!-- float the gifs to the right -->
 <img align="right" src="https://i.imgur.com/VdLpAKO.gif" width="100">
 <img align="right" src="https://i.imgur.com/l2MWKYX.gif" width="100">
-<table>
-  <tr>
-    <td style="border: none; vertical-align: top;">
-      <ul>
-        <li>🎓 Computer Science graduate from <b>Stony Brook University</b></li>
-        <li>📱 <b>Mobile App Developer</b> (Android & iOS)</li>
-        <li>👨‍🏫 <b>Android / iOS Tech Fellow</b> @ CodePath</li>
-        <li>Interests: 🌐 Web Development, 📱 Mobile Development, 🤖 Graphic Design & Pixel Art</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+
+- 🎓 Computer Science graduate from <b>Stony Brook University
+- 📱 Mobile App Developer (Android & iOS)
+- 👨‍🏫 Android / iOS Tech Fellow @ CodePath
+- Interests: 🌐 Web Development, 📱 Mobile Development, 🤖 Graphic Design & Pixel Art
 
 ## 🌐 Social Media
 
