@@ -17,7 +17,10 @@ I’m a mobile app developer currently building a productivity app to support in
 </div>
 
 ## 🚀 About Me  
-
+<!-- float the gifs to the right -->
+<img align="right" src="https://i.imgur.com/l2MWKYX.gif" width="100">
+<img align="right" src="https://i.imgur.com/VdLpAKO.gif" width="100">
+<img align="right" src="https://i.imgur.com/VdLpAKO.gif" width="100">
 <table>
   <tr>
     <td style="border: none; vertical-align: top;">
@@ -25,12 +28,8 @@ I’m a mobile app developer currently building a productivity app to support in
         <li>🎓 Computer Science graduate from <b>Stony Brook University</b></li>
         <li>📱 <b>Mobile App Developer</b> (Android & iOS)</li>
         <li>👨‍🏫 <b>Android / iOS Tech Fellow</b> @ CodePath</li>
-        <li>Interests: 🌐 Web Development, 📱 Mobile Development, 🤖 Artificial Intelligence</li>
+        <li>Interests: 🌐 Web Development, 📱 Mobile Development, 🤖 Graphic Design & Pixel Art</li>
       </ul>
-    </td>
-    <td style="border: none; vertical-align: top; padding-left: 20px;">
-      <img src="https://i.imgur.com/l2MWKYX.gif" width="100"/>
-      <img src="https://i.imgur.com/VdLpAKO.gif" width="100"/>
     </td>
   </tr>
 </table>
