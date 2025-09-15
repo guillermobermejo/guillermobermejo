@@ -89,7 +89,7 @@ I’m a mobile app developer currently building a productivity app to support in
 
 | [<img src="https://i.imgur.com/anAxhT3.gif" width="100%"/>](https://www.guillermobermejo.com/pages/project-page/projects/development/enyos-escape.html) | [<img src="https://i.imgur.com/DiJ43CK.gif" width="100%"/>](https://www.guillermobermejo.com/pages/project-page/projects/graphic-design/angelinas-delicatessen-contract.html) |
 |---|---|
-| **Enyo's Escape:** Finalist @ Stony Brook University Game Programming Competition.| **Design Freelance:** A motion graphics 5-story panel built for a freelance client. |
+| **Enyo's Escape:** Finalist @ Stony Brook University Game Programming Competition. Demo available on my website.| **Design Freelance:** A motion graphics 5-story panel built for a freelance client. |
 
 
 ## 📊 GitHub Stats  
