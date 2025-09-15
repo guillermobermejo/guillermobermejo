@@ -18,29 +18,37 @@ I’m a mobile app developer currently building a productivity app to support in
 
 ## 🚀 About Me  
 
-| [<img src="https://i.imgur.com/QbWijjG.gif" width="100%"/>](https://github.com/yourusername/project1) | [<img src="https://i.imgur.com/QbWijjG.gif" width="100%"/>](https://github.com/yourusername/project2) |
-|---|---|
-| **Game Project:** A retro-style pixel game I developed for a competition. | **Design Project:** A motion graphics showcase built for a freelance client. |
-
-
-## 🌐 Social Media
-
 <table>
   <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/yourusername/project1">
-        <img src="https://i.imgur.com/QbWijjG.gif" alt="Game Project GIF" width="100%">
-      </a>
-      <p><b>Game Project:</b> A retro-style pixel game I developed for a competition.</p>
+    <td style="border: none; vertical-align: top;">
+      <ul>
+        <li>🎓 Computer Science graduate from <b>Stony Brook University</b></li>
+        <li>📱 <b>Mobile App Developer</b> (Android & iOS)</li>
+        <li>🎮 <b>Game Programming Finalist</b> @ SBU Game Programming Competition 2024</li>
+        <li>👨‍🏫 <b>Android / iOS Tech Fellow</b> @ CodePath</li>
+        <li>Interests: 🌐 Web Development, 📱 Mobile Development, 🤖 Artificial Intelligence</li>
+      </ul>
     </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/yourusername/project2">
-        <img src="https://i.imgur.com/QbWijjG.gif" alt="Design Project GIF" width="100%">
-      </a>
-      <p><b>Design Project:</b> A motion graphics showcase built for a freelance client.</p>
+    <td style="border: none; vertical-align: top; padding-left: 20px;">
+      <img src="https://i.imgur.com/l2MWKYX.gif" width="120"/>
+      <img src="https://i.imgur.com/VdLpAKO.gif" width="120"/>
     </td>
   </tr>
 </table>
+
+## 🌐 Social Media
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bermejoguillermo" target="_blank" rel="noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:guillermobermejo.dev@gmail.com" target="_blank" rel="noreferrer">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.guillermobermejo.com/" target="_blank" rel="noreferrer">
+    <img alt="My Website" src="https://img.shields.io/badge/My%20Website-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ## 🛠️ Languages & Tools  
 
@@ -80,14 +88,9 @@ I’m a mobile app developer currently building a productivity app to support in
 
 ## 🎮 Projects & Creative Work
 
-<p align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://i.imgur.com/QbWijjG.gif" alt="Project 1 GIF" width="49%">
-  </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://i.imgur.com/QbWijjG.gif" alt="Project 2 GIF" width="49%">
-  </a>
-</p>
+| [<img src="https://i.imgur.com/anAxhT3.gif" width="100%"/>](https://github.com/yourusername/project1) | [<img src="https://i.imgur.com/anAxhT3.gif" width="100%"/>](https://github.com/yourusername/project2) |
+|---|---|
+| **Game Project:** A retro-style pixel game I developed for a competition. | **Design Project:** A motion graphics showcase built for a freelance client. |
 
 
 ## 📊 GitHub Stats  
