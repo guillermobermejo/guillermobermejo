@@ -18,8 +18,8 @@ I’m a mobile app developer currently building a productivity app to support in
 
 ## 🚀 About Me  
 <!-- float the gifs to the right -->
-<img align="right" src="https://i.imgur.com/VdLpAKO.gif" width="100">
-<img align="right" src="https://i.imgur.com/l2MWKYX.gif" width="100">
+<img align="right" src="https://i.imgur.com/VdLpAKO.gif" width="110">
+<img align="right" src="https://i.imgur.com/l2MWKYX.gif" width="110">
 
 - 🎓 Computer Science graduate from <b>Stony Brook University
 - 📱 Mobile App Developer (Android & iOS)
