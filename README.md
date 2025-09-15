@@ -29,8 +29,8 @@ I’m a mobile app developer currently building a productivity app to support in
       </ul>
     </td>
     <td style="border: none; vertical-align: top; padding-left: 20px;">
-      <img src="https://i.imgur.com/l2MWKYX.gif" width="120"/>
-      <img src="https://i.imgur.com/VdLpAKO.gif" width="120"/>
+      <img src="https://i.imgur.com/l2MWKYX.gif" width="100"/>
+      <img src="https://i.imgur.com/VdLpAKO.gif" width="100"/>
     </td>
   </tr>
 </table>
