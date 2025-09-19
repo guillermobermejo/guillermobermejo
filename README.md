@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-I’m a mobile app developer currently building a productivity app to support individuals with autism. I enjoy freelance in web development and graphic design and
+I’m a mobile app developer currently building a productivity app to support individuals with autism. I enjoy freelance in web development & graphic design and
   volunteering my technical skills for meaningful causes, with a focus on expanding access to technology.
 </p>
 
