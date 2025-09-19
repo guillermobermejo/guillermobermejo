@@ -24,7 +24,8 @@ I’m a mobile app developer currently building a productivity app to support in
 - 🎓 Computer Science graduate from <b>Stony Brook University
 - 📱 Mobile App Developer (Android & iOS)
 - 👨‍🏫 Android / iOS Tech Fellow @ CodePath
-- Interests: 🌐 Web Development, 📱 Mobile Development, 🤖 Graphic Design & Pixel Art
+- 🖥️ Freelance in <b>Web Development</b> & <b>Graphic Design</b>
+- Interests: 🌐 Web Development, 📱 Mobile Development, 🎨 Graphic Design & Pixel Art
 
 ## 🌐 Social Media
 
